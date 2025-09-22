@@ -1,2 +1,1 @@
-Print(Skibidi)
-print("Come stai?")
+"Hello world"
